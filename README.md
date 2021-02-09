@@ -1,1 +1,1 @@
-# skillfactory_JB
+This is repository for my projects in online-university SkillFactory
